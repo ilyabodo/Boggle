@@ -10,9 +10,9 @@ Controls:
   - Click "Check Word" to check if currently selected letters create a valid word
 
 Key controls:
-  ESC - Stops the current game and displays results screen
-  SPACE - Rotates the game board 90 degrees
-  Q - Clears the currently selected letters
+ - ESC - Stops the current game and displays results screen
+ - SPACE - Rotates the game board 90 degrees
+ - Q - Clears all of the currently selected letters
 
 Boggle solver info:
   - Uses a dictionary file as a word list
