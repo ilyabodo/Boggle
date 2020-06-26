@@ -1,4 +1,4 @@
-# boggle
+# Boggle
 JavaFX boggle game with solver included
 
 Rules for boggle can be found here:
